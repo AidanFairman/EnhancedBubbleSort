@@ -1,0 +1,13 @@
+/workspace/EnhancedBubbleSort/bin/Debug/netcoreapp3.1/EnhancedBubbleSort
+/workspace/EnhancedBubbleSort/bin/Debug/netcoreapp3.1/EnhancedBubbleSort.deps.json
+/workspace/EnhancedBubbleSort/bin/Debug/netcoreapp3.1/EnhancedBubbleSort.runtimeconfig.json
+/workspace/EnhancedBubbleSort/bin/Debug/netcoreapp3.1/EnhancedBubbleSort.runtimeconfig.dev.json
+/workspace/EnhancedBubbleSort/bin/Debug/netcoreapp3.1/EnhancedBubbleSort.dll
+/workspace/EnhancedBubbleSort/bin/Debug/netcoreapp3.1/EnhancedBubbleSort.pdb
+/workspace/EnhancedBubbleSort/obj/Debug/netcoreapp3.1/EnhancedBubbleSort.csprojAssemblyReference.cache
+/workspace/EnhancedBubbleSort/obj/Debug/netcoreapp3.1/EnhancedBubbleSort.csproj.CoreCompileInputs.cache
+/workspace/EnhancedBubbleSort/obj/Debug/netcoreapp3.1/EnhancedBubbleSort.AssemblyInfoInputs.cache
+/workspace/EnhancedBubbleSort/obj/Debug/netcoreapp3.1/EnhancedBubbleSort.AssemblyInfo.cs
+/workspace/EnhancedBubbleSort/obj/Debug/netcoreapp3.1/EnhancedBubbleSort.dll
+/workspace/EnhancedBubbleSort/obj/Debug/netcoreapp3.1/EnhancedBubbleSort.pdb
+/workspace/EnhancedBubbleSort/obj/Debug/netcoreapp3.1/EnhancedBubbleSort.genruntimeconfig.cache
